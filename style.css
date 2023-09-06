@@ -1,0 +1,287 @@
+* {
+    margin: 0px;
+    padding: 0px;
+    box-sizing: border-box;
+    font-family: Cambria;
+}
+
+body {
+    background-color: rgb(154, 210, 210);
+}
+
+.card-container {
+    display: flex;
+    justify-content: center;
+    margin-top: 50px;
+}
+
+.resumecard {
+    height: 400vh;
+    width: 50%;
+    background-color: white;
+    padding: 0px 30px;
+    box-shadow: rgba(0, 0, 0, 0.35) 0px 5px 15px;
+}
+
+.profile-image img {
+    float: left;
+    margin-top: 40px;
+}
+
+.profile-image h1 {
+    color: rgb(60, 59, 59);
+    padding-top: 65px;
+    margin-left: 270px;
+}
+
+.profile-image h2 {
+    color: #747272;
+    letter-spacing: 1px;
+    margin-left: 270px;
+}
+
+.profile-image p {
+    margin-left: 270px;
+    font-size: 18px;
+}
+
+.profile-image i {
+    font-size: 20px;
+    margin-top: 13px;
+    margin-right: 5px;
+}
+
+#address {
+    margin-left: 290px;
+}
+
+.summary {
+    margin-top: 40px;
+}
+
+.summary h2 {
+    color: #313030;
+}
+
+.summary p {
+    text-indent: 50px;
+    font-size: 18px;
+    margin-top: 10px;
+    color: #747272;
+    line-height: 27px;
+}
+
+.acadamic {
+    margin-top: 20px;
+}
+
+.acadamic h2 {
+    color: #313030;
+}
+
+.graduate h3 {
+    color: #313030;
+    margin-top: 20px;
+}
+
+.graduate p {
+    font-size: 18px;
+    margin-left: 300px;
+    color: #747272;
+}
+
+.graduate-deg {
+    margin-top: -25px;
+}
+
+.hsc h3 {
+    color: #313030;
+    margin-top: 40px;
+}
+
+.hsc-schl p {
+    font-size: 18px;
+    margin-left: 300px;
+    color: #747272;
+}
+
+.hsc-schl {
+    margin-top: -25px;
+}
+
+.sslc {
+    margin-top: 60px;
+}
+
+.sslc h3 {
+    color: #313030;
+}
+
+.sslc-schl {
+    margin-top: -25px;
+}
+
+.sslc-schl p {
+    font-size: 18px;
+    margin-left: 300px;
+    color: #747272;
+}
+
+.technical {
+    margin-top: 40px;
+}
+
+.web-design h3 {
+    margin-top: 20px;
+    color: #313030;
+}
+
+.web-design p {
+    font-size: 18px;
+    color: #747272;
+    text-indent: 80px;
+    margin-top: 10px;
+}
+
+.design-tool {
+    margin-top: 20px;
+    color: #313030;
+}
+
+.design-tool p {
+    font-size: 18px;
+    color: #747272;
+    text-indent: 80px;
+    margin-top: 10px;
+}
+
+.work-exp {
+    margin-top: 40px;
+}
+
+.work-exp h2 {
+    color: #313030;
+}
+
+.webdesigner h3 {
+    margin-top: 20px;
+    margin-bottom: 10px;
+    color: #313030;
+}
+
+.webdesigner p {
+    font-size: 18px;
+}
+
+.work-exp ul {
+    margin-top: 15PX;
+    margin-left: 50px;
+    font-size: 18px;
+    color: #747272;
+}
+
+.work-exp ul li {
+    line-height: 1.5;
+}
+
+.graphic-exp {
+    margin-top: 20px;
+}
+
+.graphic-exp h3 {
+    margin-top: 20px;
+    margin-bottom: 10px;
+    color: #313030;
+}
+
+.graphic-exp p {
+    font-size: 18px;
+}
+
+.dataentry-exp {
+    margin-top: 20px;
+}
+
+.dataentry-exp h3 {
+    margin-top: 20px;
+    margin-bottom: 10px;
+    color: #313030;
+}
+
+.dataentry-exp p {
+    font-size: 18px;
+}
+
+.office-assis {
+    margin-top: 20px;
+}
+
+.office-assis h3 {
+    margin-top: 20px;
+    margin-bottom: 10px;
+    color: #313030;
+}
+
+.office-assis p {
+    font-size: 18px;
+}
+
+.personal-detail {
+    display: flex;
+    margin-top: 20px;
+}
+
+.personal-info p {
+    font-size: 18px;
+    color: #747272;
+    line-height: 2;
+}
+
+.personal-info-deatil {
+    margin-left: 100px;
+    font-size: 18px;
+    color: #747272;
+    line-height: 2;
+}
+
+.colon {
+    margin-right: 50px;
+}
+
+.personal {
+    margin-top: 40px;
+}
+
+.declaration {
+    margin-top: 40px;
+}
+
+.declaration p {
+    font-size: 18px;
+    color: #747272;
+    margin-top: 20px;
+    text-indent: 50px;
+    line-height: 1.5;
+}
+
+.colon-space {
+    margin-left: 50px;
+}
+
+.location {
+    margin-top: 60px;
+}
+
+.location p {
+    font-size: 20px;
+    color: #747272;
+    line-height: 1.5;
+    font-weight: 700;
+    letter-spacing: 1px;
+}
+
+.year {
+    font-size: 16px;
+    color: rgb(81, 79, 79);
+    margin-left: 10px;
+}
