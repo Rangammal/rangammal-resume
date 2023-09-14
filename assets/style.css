@@ -16,11 +16,12 @@ body {
 }
 
 .resumecard {
-    height: 400vh;
-    width: 50%;
+    height: auto;
+    width: 70%;
     background-color: white;
-    padding: 0px 30px;
+    padding: 50px 100px;
     box-shadow: rgba(0, 0, 0, 0.35) 0px 5px 15px;
+    border-radius: 50px;
 }
 
 .profile-image img {
@@ -80,14 +81,14 @@ body {
 }
 
 .graduate h3 {
-    color: #313030;
+    color: #747272;
     margin-top: 20px;
 }
 
 .graduate p {
     font-size: 18px;
     margin-left: 300px;
-    color: #747272;
+    color: #313030;
 }
 
 .graduate-deg {
@@ -95,14 +96,14 @@ body {
 }
 
 .hsc h3 {
-    color: #313030;
+    color: #747272;
     margin-top: 40px;
 }
 
 .hsc-schl p {
     font-size: 18px;
     margin-left: 300px;
-    color: #747272;
+    color: #313030;
 }
 
 .hsc-schl {
@@ -114,7 +115,7 @@ body {
 }
 
 .sslc h3 {
-    color: #313030;
+    color: #747272;
 }
 
 .sslc-schl {
@@ -124,7 +125,7 @@ body {
 .sslc-schl p {
     font-size: 18px;
     margin-left: 300px;
-    color: #747272;
+    color: #313030;
 }
 
 .technical {
@@ -170,7 +171,7 @@ body {
 }
 
 .webdesigner p {
-    font-size: 18px;
+    font-size: 17px;
 }
 
 .work-exp ul {
@@ -195,7 +196,7 @@ body {
 }
 
 .graphic-exp p {
-    font-size: 18px;
+    font-size: 17px;
 }
 
 .dataentry-exp {
@@ -209,7 +210,7 @@ body {
 }
 
 .dataentry-exp p {
-    font-size: 18px;
+    font-size: 17px;
 }
 
 .office-assis {
@@ -223,7 +224,7 @@ body {
 }
 
 .office-assis p {
-    font-size: 18px;
+    font-size: 17px;
 }
 
 .personal-detail {
